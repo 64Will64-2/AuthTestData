@@ -1,0 +1,2 @@
+// 0 = Not Allowed
+// 1 = Allowed
